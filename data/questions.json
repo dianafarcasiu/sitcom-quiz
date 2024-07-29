@@ -1,0 +1,39 @@
+{
+  "questions": [
+    {
+      "question": "What is the name of Jay and Gloria's dog in Modern Family?",
+      "options": ["Stella", "Max", "Buddy", "Rocky"],
+      "correctOption": 0,
+      "points": 10
+    },
+    {
+      "question": "What instrument does Ted steal for Robin in How I Met Your Mother?",
+      "options": ["Trumpet", "Guitar", "Saxophone", "French horn"],
+      "correctOption": 3,
+      "points": 10
+    },
+    {
+      "question": "What is the name of Ron Swanson's ex-wife in Parks and Recreation?",
+      "options": ["Diane", "Wendy", "Tammy", "April"],
+      "correctOption": 2,
+      "points": 10
+    },
+    {
+      "question": "What does Ross famously yell at the moving company when trying to move his couch in Friends?",
+      "options": ["Lift!", "Careful!", "Pivot!", "Turn!"],
+      "correctOption": 2,
+      "points": 10
+    },
+    {
+      "question": "What is Jake Peralta's favorite Halloween activity in Brooklyn Nine-Nine?",
+      "options": [
+        "Trick-or-treating",
+        "Costume contest",
+        "Halloween Heist",
+        "Pumpkin carving"
+      ],
+      "correctOption": 2,
+      "points": 10
+    }
+  ]
+}

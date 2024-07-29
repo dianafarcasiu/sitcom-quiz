@@ -1,0 +1,52 @@
+@import url("https://fonts.googleapis.com/css2?family=Montserrat&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Bangers&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Codystar:wght@300;400&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Bungee+Shade&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Bubblegum+Sans&display=swap");
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  html {
+    font-family: "Montserrat", sans-serif;
+  }
+  body {
+    @apply bg-violet-950/75 text-zinc-200;
+  }
+  .app {
+    @apply p-10 text-center;
+  }
+  .title {
+    font-family: "Bubblegum Sans", sans-serif;
+  }
+  .btn {
+    @apply py-3 font-bold rounded-full border border-transparent bg-violet-950/25  transition-all;
+  }
+  .btn-hover {
+    @apply hover:bg-transparent hover:border-zinc-200/45;
+  }
+  .page-w {
+    @apply w-full sm:w-1/2 lg:w-[40%] m-auto;
+  }
+  .control-btn {
+    @apply text-black font-extrabold text-xl px-1 rounded-xl hover:bg-zinc-200;
+  }
+
+  progress {
+    appearance: none;
+    -webkit-appearance: none;
+  }
+  progress::-webkit-progress-bar {
+    @apply bg-zinc-200 rounded-lg;
+  }
+  progress::-webkit-progress-value {
+    @apply bg-amber-600 rounded-lg;
+  }
+
+  /* For firefox browser */
+  /* progress::-moz-progress-bar {
+      @apply bg-amber-700 rounded-lg;
+  } */
+}
