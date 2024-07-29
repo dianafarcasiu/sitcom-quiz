@@ -1,0 +1,42 @@
+{
+  "files": {
+    "main.css": "/sitcom-quiz/static/css/main.a9d7e970.css",
+    "main.js": "/sitcom-quiz/static/js/main.009a7d5b.js",
+    "reactPlayerYouTube.js": "/sitcom-quiz/static/js/reactPlayerYouTube.748a5512.chunk.js",
+    "reactPlayerSoundCloud.js": "/sitcom-quiz/static/js/reactPlayerSoundCloud.762c71bc.chunk.js",
+    "reactPlayerVimeo.js": "/sitcom-quiz/static/js/reactPlayerVimeo.9fc72caa.chunk.js",
+    "reactPlayerMux.js": "/sitcom-quiz/static/js/reactPlayerMux.2209f8f9.chunk.js",
+    "reactPlayerFacebook.js": "/sitcom-quiz/static/js/reactPlayerFacebook.12dd2836.chunk.js",
+    "reactPlayerStreamable.js": "/sitcom-quiz/static/js/reactPlayerStreamable.c744fde2.chunk.js",
+    "reactPlayerWistia.js": "/sitcom-quiz/static/js/reactPlayerWistia.50bc4ff8.chunk.js",
+    "reactPlayerTwitch.js": "/sitcom-quiz/static/js/reactPlayerTwitch.8e8d630f.chunk.js",
+    "reactPlayerDailyMotion.js": "/sitcom-quiz/static/js/reactPlayerDailyMotion.83982dc8.chunk.js",
+    "reactPlayerMixcloud.js": "/sitcom-quiz/static/js/reactPlayerMixcloud.0949c465.chunk.js",
+    "reactPlayerVidyard.js": "/sitcom-quiz/static/js/reactPlayerVidyard.9c5ea396.chunk.js",
+    "reactPlayerKaltura.js": "/sitcom-quiz/static/js/reactPlayerKaltura.22a59a42.chunk.js",
+    "reactPlayerFilePlayer.js": "/sitcom-quiz/static/js/reactPlayerFilePlayer.366620b2.chunk.js",
+    "reactPlayerPreview.js": "/sitcom-quiz/static/js/reactPlayerPreview.8af6b6eb.chunk.js",
+    "static/media/retro-tv.png": "/sitcom-quiz/static/media/retro-tv.3601dc32540861f28471.png",
+    "index.html": "/sitcom-quiz/index.html",
+    "main.a9d7e970.css.map": "/sitcom-quiz/static/css/main.a9d7e970.css.map",
+    "main.009a7d5b.js.map": "/sitcom-quiz/static/js/main.009a7d5b.js.map",
+    "reactPlayerYouTube.748a5512.chunk.js.map": "/sitcom-quiz/static/js/reactPlayerYouTube.748a5512.chunk.js.map",
+    "reactPlayerSoundCloud.762c71bc.chunk.js.map": "/sitcom-quiz/static/js/reactPlayerSoundCloud.762c71bc.chunk.js.map",
+    "reactPlayerVimeo.9fc72caa.chunk.js.map": "/sitcom-quiz/static/js/reactPlayerVimeo.9fc72caa.chunk.js.map",
+    "reactPlayerMux.2209f8f9.chunk.js.map": "/sitcom-quiz/static/js/reactPlayerMux.2209f8f9.chunk.js.map",
+    "reactPlayerFacebook.12dd2836.chunk.js.map": "/sitcom-quiz/static/js/reactPlayerFacebook.12dd2836.chunk.js.map",
+    "reactPlayerStreamable.c744fde2.chunk.js.map": "/sitcom-quiz/static/js/reactPlayerStreamable.c744fde2.chunk.js.map",
+    "reactPlayerWistia.50bc4ff8.chunk.js.map": "/sitcom-quiz/static/js/reactPlayerWistia.50bc4ff8.chunk.js.map",
+    "reactPlayerTwitch.8e8d630f.chunk.js.map": "/sitcom-quiz/static/js/reactPlayerTwitch.8e8d630f.chunk.js.map",
+    "reactPlayerDailyMotion.83982dc8.chunk.js.map": "/sitcom-quiz/static/js/reactPlayerDailyMotion.83982dc8.chunk.js.map",
+    "reactPlayerMixcloud.0949c465.chunk.js.map": "/sitcom-quiz/static/js/reactPlayerMixcloud.0949c465.chunk.js.map",
+    "reactPlayerVidyard.9c5ea396.chunk.js.map": "/sitcom-quiz/static/js/reactPlayerVidyard.9c5ea396.chunk.js.map",
+    "reactPlayerKaltura.22a59a42.chunk.js.map": "/sitcom-quiz/static/js/reactPlayerKaltura.22a59a42.chunk.js.map",
+    "reactPlayerFilePlayer.366620b2.chunk.js.map": "/sitcom-quiz/static/js/reactPlayerFilePlayer.366620b2.chunk.js.map",
+    "reactPlayerPreview.8af6b6eb.chunk.js.map": "/sitcom-quiz/static/js/reactPlayerPreview.8af6b6eb.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a9d7e970.css",
+    "static/js/main.009a7d5b.js"
+  ]
+}
