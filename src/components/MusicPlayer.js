@@ -3,13 +3,13 @@ import ReactPlayer from "react-player";
 
 function MusicPlayer() {
   const musicUrls = [
-    "/songs/song1.mp3",
-    "/songs/song2.mp3",
-    "/songs/song3.mp3",
-    "/songs/song4.mp3",
-    "/songs/song5.mp3",
-    "/songs/song6.mp3",
-    "/songs/song7.mp3",
+    "https://github.com/dianafarcasiu/sitcom-quiz/releases/download/v1.0/song1.mp3",
+    "https://github.com/dianafarcasiu/sitcom-quiz/releases/download/v1.0/song2.mp3",
+    "https://github.com/dianafarcasiu/sitcom-quiz/releases/download/v1.0/song3.mp3",
+    "https://github.com/dianafarcasiu/sitcom-quiz/releases/download/v1.0/song4.mp3",
+    "https://github.com/dianafarcasiu/sitcom-quiz/releases/download/v1.0/song5.mp3",
+    "https://github.com/dianafarcasiu/sitcom-quiz/releases/download/v1.0/song6.mp3",
+    "https://github.com/dianafarcasiu/sitcom-quiz/releases/download/v1.0/song7.mp3",
   ];
   const [index, setIndex] = useState(0);
   const url = musicUrls[index];
