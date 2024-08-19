@@ -1,4 +1,7 @@
-function StartScreen({ numOfQuestions, dispatch }) {
+import { useQuiz } from "../contexts/QuizContext";
+
+function StartScreen() {
+  const { numOfQuestions, dispatch } = useQuiz();
   return (
     <div className="w-1/3 m-auto mt-16">
       <p className="md:text-lg font-bold pb-16">
